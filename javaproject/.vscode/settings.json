@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Lenovo\\Downloads\\gson-2.6.2 (1).jar",
+        "c:\\Users\\Lenovo\\Downloads\\bcprov-jdk15on-159 (1).jar",
+        "c:\\Users\\Lenovo\\Downloads\\commons-lang3-3.12.0\\commons-lang3-3.12.0.jar"
+    ]
+}
